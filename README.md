@@ -1,5 +1,17 @@
 # Getting Started with Create React App
 
+# tlv300 - Home Assignment (Frontend) Description: Domain information API request
+
+# Steps required:
+
+Once changes are pull from remote, create .env file in the root directory and put values in the file: REACT_APP_API_KEY: REACT_APP_BASE_URL:
+
+# Set Up Instructions
+
+1. After cloning the repo to your local machine, go to your editor's terminal and navigate to Your Project Directory by typing: cd tlv_300
+2. Once on the tlv_300 directory, Install Bootstrap by typing in the terminal: npm install bootstrap
+2. Run React application npm start
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
